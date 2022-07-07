@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <!--spring版本命名-->
-    <spring.varsion>5.0.4.RELEASE</spring.varsion>
+    <spring.varsion>5.2.21.RELEASE</spring.varsion>
     <!--springMVC及jstl版本命名-->
     <javax.servlet.version>4.0.0</javax.servlet.version>
     <jstl.version>1.2</jstl.version>
